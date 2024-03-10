@@ -1,0 +1,5 @@
+Arunav,222131415415,arunavkg@gmail.com,2,5,100Mahi,44014710174910,mahi@27,3,4,80Bidhuro,1241515125,mahi@mail.com,4,6,1800
+Akshat,15125332,ghosh@mail,1,4,80
+Yesme,125415361,yes@gmail.com,4,1,300,Sat Mar  2 12:09:22 2024
+Mahi Bidhuri,8287235772,mahi2203@gmail.com,3,5,100,Sun Mar  3 21:09:23 2024
+Mahi,8287235775,mahi2203@gmail.com,3,50,50000,Sun Mar  3 21:13:47 2024
